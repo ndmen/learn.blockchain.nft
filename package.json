@@ -1,0 +1,26 @@
+{
+  "name": "learn.blockchain.nft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndmen/learn.blockchain.nft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndmen/learn.blockchain.nft/issues"
+  },
+  "homepage": "https://github.com/ndmen/learn.blockchain.nft#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.0"
+  }
+}
